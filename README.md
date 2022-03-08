@@ -1,4 +1,4 @@
-# <p align="center">Hoàng Tuấn Anh</p>
+ <p align="center">Hoàng Tuấn Anh</p>
 
 <p align="center">
 	<a href="https://github.com/AnhANH392003">
@@ -27,7 +27,7 @@ namespace HTA
 }
 ```
 
-## <p align="center">You can reach me at 🌹</p>
+<p align="center">You can reach me at 🌹</p>
 
 <p align="center">
   <a href="https://www.facebook.com/tuananh392003/">
@@ -62,8 +62,7 @@ namespace HTA
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>-->
-
-## <p align="center">What I use :alien:</p>
+ <p align="center">What I use :alien:</p>
 
 <table align="center">
   <tbody>
@@ -191,6 +190,5 @@ namespace HTA
 <hr>
 <br>-->
 
-##
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
