@@ -42,9 +42,9 @@ namespace TNT
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
- // <a href="https://www.linkedin.com/in/ngoctientnt/">
+ <! <a href="https://www.linkedin.com/in/ngoctientnt/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-  </a>//
+  </a>-->
   
   <a href="mailto:tuananh392003@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
@@ -134,7 +134,7 @@ namespace TNT
   </tbody>
 </table>
 
-//## <p align="center">Visitor's count :eyes:</p>
+<!## <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
 
@@ -189,7 +189,7 @@ namespace TNT
 </p>
 
 <hr>
-<br>//
+<br>-->
 
 ##
 
